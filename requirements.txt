@@ -1,0 +1,19 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/altgraph-0.17.2-py2.py3-none-any.whl
+ansible==7.2.0
+ansible-core==2.14.2
+botocore==1.27.76
+cffi==1.15.1
+cryptography==39.0.0
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/future-0.18.2-py3-none-any.whl
+git-remote-codecommit==1.16
+Jinja2==3.1.2
+jmespath==1.0.1
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
+MarkupSafe==2.1.2
+packaging==23.0
+pycparser==2.21
+python-dateutil==2.8.2
+PyYAML==6.0
+resolvelib==0.8.1
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/six-1.15.0-py2.py3-none-any.whl
+urllib3==1.26.12
